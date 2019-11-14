@@ -1,4 +1,5 @@
-#Repository for testing jshell
+# Repository for testing jshell
+
 ```
 jshell> b= n;
 |  Error:
@@ -13,7 +14,7 @@ jshell> C= n;
 |  C= n;
 |  ^
 ```
-###After errors fixed
+### After errors fixed
 ``` 
   6 : b= (byte)n;
   
